@@ -1,6 +1,6 @@
 # ucsb-cs24/w19
 
-Jekyll-based website for UCSB CS24 Winter 2019, for shared course materials.
+Jekyll-based website for UCSB CS24 Summer 2019, for shared course materials.
 
 * website: <https://ucsb-cs24.github.io/w19/>
 * The theme currently being used can be find in the jekyll-theme value in `_config.yml`
