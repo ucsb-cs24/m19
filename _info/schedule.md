@@ -18,4 +18,4 @@ layout: default
 * Thu: 10:00am - 11:30 am (Zhuowei)
 * Fri: 2:00 pm - 3:30 pm (Zhouwei)
 
-
+* Location of TA hours: CSIL labs (right outside Harold Frank Hall)
