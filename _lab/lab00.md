@@ -18,12 +18,6 @@ Your first lab for this week is an introduction to programming on CSIL and tools
 
 This lab must be completed INDIVIDUALLY. In the subsequent labs you are encouraged to work with your programming partner.
 
-# Tell us about yourself 
-
-Please fill out the following form to tell us about yourself. We will use the information to pair you with your preferred programming partner or someone in the class with the similar skill levels as your self. Here is the link to the form [http://bit.ly/CS24-S19-ic00-AboutYou](http://bit.ly/CS24-S19-ic00-AboutYou)
-
-Answer all the questions in the form to earn credit for this part (50 points). 
-
 # Get setup with the tools for this course
 
 ## Create a CoE account if you don't have one already
