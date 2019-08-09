@@ -45,6 +45,23 @@ Please note that you may not collaborate on this lab
 	git clone git@github.com:ucsb-cs24-mirza/cs24-starter-code.git
 ```
 
+If you get the following error it means that you did not correctly set up your ssh keys from the previous step:
+```
+Cloning into 'cs24-starter-code'...
+The authenticity of host 'github.com (192.30.253.112)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,192.30.253.112' (RSA) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+```
+
+You can still proceed to get the starter code by using the http address of the repo. Type the following:
+
+```
+	git clone https://github.com/ucsb-cs24-mirza/cs24-starter-code.git
+```
+
 Note that this repo will be updated to contain the starter code for all labs and programming assignments (although right now it only contains the code for lab01). In subsequenet labs you don't have to repeat this step. Instead you just have to type the command `git pull` to get the latest code. 
 
 
