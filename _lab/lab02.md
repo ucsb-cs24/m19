@@ -3,8 +3,8 @@ layout: lab
 num: lab02
 ready: true
 desc: "Implementing a linked list"
-assigned: 2019-04-09 15:00:00.00-8
-due: 2019-04-18 23:59:00.00-8
+assigned: 2019-08-15 9:00:00.00-8
+due: 2019-08-22 23:59:00.00-8
 ---
 
 
@@ -32,7 +32,7 @@ By the time you have completed this lab, you should be able to
 * Now copy all of the files for this lab from the starter-code directory to your git directory:
 
 ```
-cp ~/cs24/cs24-s19-starter-code/{{page.num}}/* ./
+cp ~/cs24/cs24-starter-code/{{page.num}}/* ./
 ```
 
 Verify you got all the files and try to compile them as follows:
