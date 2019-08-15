@@ -5,7 +5,7 @@ desc: "Course overview, intro to Git and C++ classes"
 ready: true
 pdfurl: /lectures/CS24_Lecture1.pdf
 annotatedpdfurl: /lectures/CS24_Lecture1_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 # Code from lecture
