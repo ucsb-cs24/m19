@@ -9,7 +9,7 @@ lecture_date: 2019-08-20
 ---
 
 # Code from lecture
-[{{site.lect_repo}}/tree/master/lec-05]({{site.lect_repo}}/tree/master/lec-06)
+[{{site.lect_repo}}/tree/master/lec-06]({{site.lect_repo}}/tree/master/lec-06)
 
 # Topics
 
