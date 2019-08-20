@@ -3,7 +3,7 @@ layout: lab
 num: lab02
 ready: true
 desc: "Implementing a linked list"
-assigned: 2019-08-15 9:00:00.00-8
+assigned: 2019-08-16 9:00:00.00-8
 due: 2019-08-22 23:59:00.00-8
 ---
 
