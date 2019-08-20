@@ -27,5 +27,5 @@ lecture_date: 2019-08-20
  - Printing the value of variables with print (p)
  - Quitting gdb (q)
  - Debugging segfaults with backtrace (bt)
-* Refer to the [gdb cheat sheet](http://darkdust.net/files/GDB%20Cheat%20Sheet.pdf) (handout given in class). More practice in lab 03.
+* Refer to the [gdb cheat sheet]({{site.lect_notes}}/GDB-cheatsheet.pdf) (handout given in class). More practice in lab 03.
 
