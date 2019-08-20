@@ -4,7 +4,7 @@ desc: "Linked-lists (contd), Rule of Three, Unit tests "
 ready: true
 pdfurl: /lectures/CS24_Lecture5.pdf
 annotatedpdfurl: /lectures/CS24_Lecture5_ann.pdf
-annotatedready: false 
+annotatedready: true 
 lecture_date: 2019-08-15
 ---
 
