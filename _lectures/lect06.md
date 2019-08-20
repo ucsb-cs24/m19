@@ -1,6 +1,6 @@
 ---
 num: "lect06"
-desc: "Rule of Three, GDB, intro to pa01"
+desc: "Intro to pa01, operator overloading, GDB"
 ready: true
 pdfurl: /lectures/CS24_Lecture6.pdf
 annotatedpdfurl: /lectures/CS24_Lecture6_ann.pdf

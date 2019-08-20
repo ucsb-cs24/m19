@@ -1,6 +1,6 @@
 ---
 num: "lect05"
-desc: "Linked-lists (contd), Operator Overloading, Unit tests "
+desc: "Linked-lists (contd), Rule of Three, Unit tests "
 ready: true
 pdfurl: /lectures/CS24_Lecture5.pdf
 annotatedpdfurl: /lectures/CS24_Lecture5_ann.pdf
