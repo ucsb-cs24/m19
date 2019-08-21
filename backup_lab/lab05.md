@@ -3,8 +3,8 @@ layout: lab
 num: lab05
 ready: true
 desc: "Evaluating expressions with stacks"
-assigned: 2019-05-14 15:00:00.00-8
-due: 2019-05-20 23:59:00.00-8
+assigned: 2019-08-30 15:00:00.00-8
+due: 2019-09-05 23:59:00.00-8
 ---
 
 # Goals for this lab
