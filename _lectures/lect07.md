@@ -4,7 +4,7 @@ desc: "Recursion (contd), GDB, Binary Search Trees"
 ready: true
 pdfurl: /lectures/CS24_Lecture7.pdf
 annotatedpdfurl: /lectures/CS24_Lecture7_ann.pdf
-annotatedready: false
+annotatedready: true
 lecture_date: 2019-08-21
 ---
 
