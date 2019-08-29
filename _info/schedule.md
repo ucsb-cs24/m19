@@ -17,8 +17,8 @@ layout: default
 * Mon: 2:00 pm - 5:00 pm (Boyuan)
 * Tue: 10:00am - 11:30 am (Yimeng)
 * Wed: 10:00am - 11:30 am (Yimeng)
-* Thu: 10:00am - 11:30 am (Zhuowei)
-* Fri: 2:00 pm - 3:30 pm (Zhouwei)
+* Thu: 10:00am - 11:30 am (Destinee)
+* Fri: 2:00 pm - 3:30 pm (Destinee)
 
 ## Location of TA hours
 
