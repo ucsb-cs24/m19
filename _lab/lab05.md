@@ -27,7 +27,7 @@ Select a pilot, log into the CSIL machines.
 
 ## Step 1a: Create a git repo, add your partner as collaborator
 
-* Create a repo for this lab on the pilot's github account (just like you did in lab00): To do this, open a browser and navigate to [www.github.com](www.github.com). Log into the pilot's github account. From the drop down menu on the left, select our class organization: ucsb-cs24-s19-mirza and proceed to create a new repo. You may refer to the instructions in lab00. Follow this naming convention: If your github username is jgaucho and your partner's is alily, your should name your repo lab05_agaucho_alily (usernames appear in alphabetical order). Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
+* Create a repo for this lab on the pilot's github account (just like you did in lab00): To do this, open a browser and navigate to [www.github.com](www.github.com). Log into the pilot's github account. From the drop down menu on the left, select our class organization: ucsb-cs24-mirza and proceed to create a new repo. You may refer to the instructions in lab00. Follow this naming convention: If your github username is jgaucho and your partner's is alily, your should name your repo lab05_agaucho_alily (usernames appear in alphabetical order). Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
 
 * The pilot should add the navigator as a collaborator on github, and the navigator should accept the request to join the repo. See instructions in previous labs
 
@@ -37,13 +37,13 @@ Select a pilot, log into the CSIL machines.
 
 ```
 cd ~/cs24
-git clone git@github.com:ucsb-cs24-s19/lab05_jgaucho_alily.git
+git clone git@github.com:ucsb-cs24-mirza/lab05_jgaucho_alily.git
 ```
 
 Now navigate to your starter-code directory (cloned in a previous lab) and do a git pull to get the latest version of the code
 
 ```
-cd ~/cs24/cs24-s19-lab-starter-code/
+cd ~/cs24/cs24-lab-starter-code/
 git pull
 cd ~/cs24/lab05_jgauch_alily/
 ```
@@ -51,7 +51,7 @@ cd ~/cs24/lab05_jgauch_alily/
 Now copy all of the files for this lab from the starter-code directory to your git repo directory:
 
 ```
-cp ~/cs24/cs24-s19-starter-code/lab05/* ./
+cp ~/cs24/cs24-starter-code/lab05/* ./
 
 -bash-4.3$ ls
 evalfull.cpp  intstack.h  usestack.cpp
