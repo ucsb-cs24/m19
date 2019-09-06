@@ -4,7 +4,7 @@ desc: "Heaps"
 ready: true
 pdfurl: /lectures/CS24_Lecture13.pdf
 annotatedpdfurl: /lectures/CS24_Lecture13_ann.pdf
-annotatedready: false
+annotatedready: true
 lecture_date: 2019-09-05
 ---
 
