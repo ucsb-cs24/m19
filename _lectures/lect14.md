@@ -8,7 +8,7 @@ annotatedready: true
 lecture_date: 2019-09-10
 
 ---
-# Topics
+# Topics. 
 
 ## Code written in class
 [{{site.lect_repo}}/tree/master/lec-14]({{site.lect_repo}}/tree/master/lec-14)
