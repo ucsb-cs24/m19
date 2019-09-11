@@ -4,7 +4,7 @@ desc: "Comparison classes and iterators"
 ready: true
 pdfurl: /lectures/CS24_Lecture14.pdf
 annotatedpdfurl: /lectures/CS24_Lecture14_ann.pdf
-annotatedready: false
+annotatedready: true
 lecture_date: 2019-09-10
 
 ---
