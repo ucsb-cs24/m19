@@ -4,7 +4,7 @@ desc: "Final wrap up"
 ready: true
 pdfurl: /lectures/CS24_Lecture15.pdf
 annotatedpdfurl: /lectures/CS24_Lecture15_ann.pdf
-annotatedready: false
+annotatedready: true
 lecture_date: 2019-09-11
 
 ---
